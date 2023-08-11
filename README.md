@@ -1,11 +1,7 @@
 ## Available Scripts
 
-In the project directory, First run
+In the project directory, run
 
 ### `npm i`
-
-After that run
-
-### `npm start`
 
 ### `npm start`
